@@ -1,1 +1,1 @@
-This is michaelimai's first git project! I will be creating the google hompage on 9/11/12 from scratch.
+This is michaelimai's first git project! I have recreated the google homepage on 9/12/19 from scratch. This project utilized HTML, CSS, and git.
