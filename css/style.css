@@ -123,7 +123,6 @@ ul.footer {
     border-top: 0.5px solid #e4e4e4;
     padding: 0px 9px 0px 24px;
     box-sizing: border-box;
-    color: #5f6368;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -139,4 +138,8 @@ ul.footer li.right {
 ul.footer li.left {
     padding: 20px 6.25px;
     float: left;
+}
+
+#footer a {
+    color: #222;
 }
