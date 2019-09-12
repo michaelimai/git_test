@@ -1,0 +1,142 @@
+ul {
+    padding-left: 25px;
+}
+
+li {
+    display: inline-block;
+    margin-right: 14.5px;
+    text-align: center;
+    vertical-align: center;
+}
+
+a {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li.left {
+    padding: 22px 0px;
+    opacity: 0.75;
+}
+
+li.right {
+    padding: 22px 0px;
+    float: right;
+    opacity: 0.87;
+}
+
+#menu-icon {
+    padding: 23px 6px 23px 8px;
+    opacity: 1;
+}
+
+#profile-pic {
+    padding: 15px 15px 15px 0px;
+    opacity: 1;
+}
+
+.center {
+    display: block;
+    margin: 138px auto 0px auto;
+}
+
+.search-bar {
+    display: flex;
+    margin: 27px auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 100px;
+    width: 570px;
+    height: 44px;
+}
+
+.magnifier {
+    display: inline-block;
+    width: 14px;
+    padding: 15px 10px 15px 16px;
+    vertical-align: top;
+}
+
+.voice {
+    display: inline-block;
+    width: 20px;
+    padding: 12px 0px 15px 0px;
+    vertical-align: top;
+}
+
+.search-bar-input {
+    display: inline-block;
+    width: 490px;
+    height: 40px;
+    border-radius: 100px;
+    border-width: 1px;
+    vertical-align: top;
+    border: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+.submit-buttons {
+    text-align: center;
+    padding-left: 4px;
+}
+
+input[type=text] {
+    font-family: arial, sans-serif;
+    font-size: 16px;
+}
+
+input[type=submit] {
+    display: inline-block;
+    font-size: 14px;
+    border: 1px solid #f2f2f2;
+    background: #f2f2f2;
+    color: #5F6368;
+    border-radius: 4px;
+    height: 36px;
+    padding: 0px 16px;
+    margin: 3px 4px 24px 4px;
+}
+
+.daily-memo {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    text-align: center;
+}
+
+.daily-memo a {
+    color: #1a0dab;
+}
+
+.daily-memo a:hover {
+    text-decoration: underline;
+}
+
+ul.footer {
+    border-top: 0.5px solid #e4e4e4;
+    padding: 0px 9px 0px 24px;
+    box-sizing: border-box;
+    color: #5f6368;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    line-height: 0px;
+}
+
+ul.footer li.right {
+    padding: 20px 6.25px;
+    float: right;
+}
+
+ul.footer li.left {
+    padding: 20px 6.25px;
+    float: left;
+}
