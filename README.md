@@ -1,1 +1,1 @@
-This is michaelimai's first git project!
+This is michaelimai's first git project! I will be creating the google hompage on 9/11/12 from scratch.
